@@ -1,0 +1,225 @@
+/* .container{
+    width: 70%;
+    margin: auto;
+}
+
+@media (min-width:320px){
+.hole{
+    background-color:  #d9b3ff;
+}
+.logo{
+    padding-top: 4rem;
+}
+.logo .logoImg{
+    width: 50%;
+}
+.logo img{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+input{
+    padding: .3rem;
+    width: 100%;
+}
+.border{
+    border: 3px solid blue;
+    width: 20%;
+}
+.payment{
+    display: flex;
+    background-color: #E9E9E9; 
+    align-items: center;
+}
+.pay{
+    background-color: whitesmoke;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.payimg{
+    width: 55%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.payamount{
+    width: 45%;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    height: 3rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+.payamount button{
+    background-color: blue;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+}
+@media (min-width:768px){
+    .hole{
+        background-color:  #d9b3ff;
+    }
+    .logo{
+        padding-top: 4rem;
+        position: relative;
+    }
+    .logo h1{
+        font-size: 1.5rem;
+    }
+    .logo .logoImg{
+        width: 20%;
+    }
+    .logo img{
+        width: 50%;
+    }
+    .border{
+        border: 3px solid blue;
+        width: 10%;
+    }
+    .payment{
+        display: flex;
+        background-color: #E9E9E9; 
+        align-items: center;
+    }
+    .pay{
+        background-color: whitesmoke;
+        padding: 2rem;
+        position: absolute;
+        top: 7rem;
+        left: 25rem;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .payimg{
+        width: 55%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .payamount{
+        width: 45%;
+        background-color: blue;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35%;
+        height: 3rem;
+        font-size: 1rem;
+    }
+    
+}
+@media (min-width:1024px){
+    .hole{
+        background-color:  #d9b3ff;
+    }
+    .logo{
+        padding-top: 4rem;
+        position: relative;
+    }
+    .logo h1{
+        font-size: 1.5rem;
+    }
+    .logo .logoImg{
+        width: 20%;
+    }
+    .logo img{
+        width: 50%;
+    }
+    .border{
+        border: 3px solid blue;
+        width: 10%;
+    }
+    .payment{
+        display: flex;
+        background-color: #E9E9E9; 
+        align-items: center;
+    }
+    .pay{
+        background-color: whitesmoke;
+        padding: 2rem;
+        position: absolute;
+        top: 7rem;
+        left: 36rem;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .payimg{
+        width: 55%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .payamount{
+        width: 45%;
+        background-color: blue;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 35%;
+        height: 3rem;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+}
+@media (min-width:1025px){
+        .hole{
+            background-color:  #d9b3ff;
+        }
+        .logo{
+            padding-top: 4rem;
+            position: relative;
+        }
+        .logo h1{
+            font-size: 1.5rem;
+        }
+        .logo .logoImg{
+            width: 20%;
+        }
+        .logo img{
+            width: 50%;
+        }
+        .border{
+            border: 3px solid blue;
+            width: 5%;
+        }
+        .payment{
+            display: flex;
+            background-color: #E9E9E9; 
+            align-items: center;
+        }
+        .pay{
+            background-color: whitesmoke;
+            padding: 2rem;
+            position: absolute;
+            top: 10rem;
+            left: 48rem;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        .payimg{
+            width: 55%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .payamount{
+            width: 45%;
+            background-color: blue;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 35%;
+            height: 3rem;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        
+}
+ */
